@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\Learning.exe
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\Learning.dll
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\Learning.runtimeconfig.json
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\Learning.pdb
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\CommunityToolkit.Mvvm.dll
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\System.CodeDom.dll
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\System.Management.dll
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\publish\Learning.deps.json

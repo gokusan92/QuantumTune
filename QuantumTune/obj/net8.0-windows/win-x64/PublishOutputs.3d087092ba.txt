@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\win-x64\publish\Learning.pdb
+C:\Users\Admin\source\repos\Learning\Learning\bin\net8.0-windows\win-x64\publish\Learning.exe
