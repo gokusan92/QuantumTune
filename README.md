@@ -7,7 +7,8 @@
 </p>
 
 <div align="center">
-![360_F_23491217_vSXuFpqgVETuohkHCciBry2hyL5M6JHs-removebg-preview](https://github.com/user-attachments/assets/cf46fea3-3259-4cd5-bf6c-505e28956637)
+![wmremove-transformed](https://github.com/user-attachments/assets/2078713d-a8e1-4745-af5e-6e62478a3621)
+
 
 [![Version](https://img.shields.io/badge/version-1.0.0-purple.svg)](https://github.com/gokusan92/QuantumTune/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
