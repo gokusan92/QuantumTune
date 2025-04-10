@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-![wmremove-transformed](https://github.com/user-attachments/assets/2078713d-a8e1-4745-af5e-6e62478a3621)
+<img src="https://github.com/user-attachments/assets/2078713d-a8e1-4745-af5e-6e62478a3621" />
 
 
 [![Version](https://img.shields.io/badge/version-1.0.0-purple.svg)](https://github.com/gokusan92/QuantumTune/releases/latest)
