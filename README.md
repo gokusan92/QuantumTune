@@ -1,14 +1,16 @@
 # QuantumTune Max
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/75596220-34af-429a-a117-e0b84fcf1167" width="600px" />
+   <a href="https://github.com/gokusan92/QuantumTune/releases/latest" target="_blank">
+      <img src="https://github.com/user-attachments/assets/75596220-34af-429a-a117-e0b84fcf1167" width="600px" />
+   </a>
 </p>
 
 <div align="center">
   
-[![Version](https://img.shields.io/badge/version-1.0.0-purple.svg)](https://github.com/youruser/QuantumTune/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.0.0-purple.svg)](https://github.com/gokusan92/QuantumTune/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![.NET](https://img.shields.io/badge/.NET-7.0-5C2D91)](https://dotnet.microsoft.com/en-us/download)
+[![.NET](https://img.shields.io/badge/.NET-8.0-5C2D91)](https://dotnet.microsoft.com/en-us/download)
 
 </div>
 
@@ -36,13 +38,13 @@
 
 ### Option 1: Installer
 
-1. [Download the latest release](https://github.com/youruser/QuantumTune/releases/latest)
+1. [Download the latest release](https://github.com/gokusan92/QuantumTune/releases/latest)
 2. Run the installer and follow the on-screen instructions
 3. Launch QuantumTune Max from your desktop or start menu
 
 ### Option 2: Portable Version
 
-1. [Download the portable version](https://github.com/youruser/QuantumTune/releases/latest)
+1. [Download the portable version](https://github.com/gokusan92/QuantumTune/releases/latest)
 2. Extract the ZIP file to your preferred location
 3. Run `QuantumTuneMax.exe`
 
