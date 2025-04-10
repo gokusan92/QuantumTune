@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\QuantumTune\QuantumTune\bin\Release\net8.0-windows\win-x64\publish\QuantumTune.pdb
+C:\Users\Admin\source\repos\QuantumTune\QuantumTune\bin\Release\net8.0-windows\win-x64\publish\QuantumTune.exe

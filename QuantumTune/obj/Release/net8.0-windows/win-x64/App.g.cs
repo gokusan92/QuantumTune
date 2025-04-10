@@ -52,7 +52,7 @@ namespace WindowsOptimizer {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Learning;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/QuantumTune;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

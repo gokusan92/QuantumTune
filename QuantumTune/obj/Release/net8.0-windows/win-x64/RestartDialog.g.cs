@@ -75,7 +75,7 @@ namespace WindowsOptimizer.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Learning;component/restartdialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/QuantumTune;component/restartdialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\RestartDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

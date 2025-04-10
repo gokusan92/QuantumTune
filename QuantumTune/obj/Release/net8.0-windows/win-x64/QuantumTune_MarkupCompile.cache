@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\source\repos\QuantumTune\QuantumTune\obj\Debug\net8.0-windows\
+C:\Users\Admin\source\repos\QuantumTune\QuantumTune\obj\Release\net8.0-windows\win-x64\
 QuantumTune
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 C:\Users\Admin\source\repos\QuantumTune\QuantumTune\App.xaml
 2-1842562435
 
-30-1080013253
+30450747867
 203-1923839913
 MainWindow.xaml;RestartDialog.xaml;
 
-True
+False
 
