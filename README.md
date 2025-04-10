@@ -7,7 +7,19 @@
 </p>
 
 <div align="center">
-  
+<br />
+<br />
+<br />
+<br />
+<a href="https://github.com/gokusan92/QuantumTune/discussions" target="_blank">
+   <img src="https://github.com/user-attachments/assets/b756589c-1b66-4b5a-ad9c-d5c58b9b0fa7" width="250px" />
+</a>
+<br />
+<br />
+<br />
+<br />
+
+
 [![Version](https://img.shields.io/badge/version-1.0.0-purple.svg)](https://github.com/gokusan92/QuantumTune/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-8.0-5C2D91)](https://dotnet.microsoft.com/en-us/download)
@@ -95,7 +107,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Need help or have questions? Visit the Support section in the application or reach out through:
 - GitHub Issues
-- Email: support@quantumtune.example.com
 
 ## ⚡ Performance Impact
 
