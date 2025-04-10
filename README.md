@@ -11,7 +11,9 @@
 <br />
 <br />
 <br />
-<img src="https://github.com/user-attachments/assets/b756589c-1b66-4b5a-ad9c-d5c58b9b0fa7" width="250px" />
+<a href="https://github.com/gokusan92/QuantumTune/discussions" target="_blank">
+   <img src="https://github.com/user-attachments/assets/b756589c-1b66-4b5a-ad9c-d5c58b9b0fa7" width="250px" />
+</a>
 <br />
 <br />
 <br />
