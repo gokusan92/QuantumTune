@@ -36,17 +36,11 @@
 
 ## 🔧 Installation
 
-### Option 1: Installer
-
-1. [Download the latest release](https://github.com/gokusan92/QuantumTune/releases/latest)
-2. Run the installer and follow the on-screen instructions
-3. Launch QuantumTune Max from your desktop or start menu
-
-### Option 2: Portable Version
+### Option 1: Portable Version
 
 1. [Download the portable version](https://github.com/gokusan92/QuantumTune/releases/latest)
 2. Extract the ZIP file to your preferred location
-3. Run `QuantumTuneMax.exe`
+3. Run `QuantumTune.exe`
 
 ## 💻 Usage
 
