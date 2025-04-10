@@ -95,7 +95,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Need help or have questions? Visit the Support section in the application or reach out through:
 - GitHub Issues
-- Email: support@quantumtune.example.com
 
 ## ⚡ Performance Impact
 
